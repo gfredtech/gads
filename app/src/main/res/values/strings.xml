@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GADS</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="leader_board">LEADERBOARD</string>
+    <string name="badge">Badge</string>
+    <string name="sample_string">%1d %2s, %3s.</string>
+    <string name="submit">Submit</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="github_link">Github Link</string>
+    <string name="cancel_button">Cancel Button</string>
+    <string name="are_you_sure">Submit Project</string>
+    <string name="question_mark">\?</string>
+    <string name="yes">Yes</string>
+    <string name="submission_succeeded">Submission Succeeded</string>
+    <string name="success">Success</string>
+    <string name="failure">Failure</string>
+    <string name="submission_failed">Submission Failed</string>
+</resources>
